@@ -1,0 +1,14 @@
+/*
+Desktop First
+
+Usiamo max width, dalla più grande alla più piccola
+*/
+
+@media screen and (max-width: 992px) {
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+}
